@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abe09c6b17e35124898b89ae7139d0b6
+timeCreated: 1484104737
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Explosion: {instanceID: 0}
+  - BloodSplat: {fileID: 100000, guid: 7ace269e7e008914bb6e375400ef6a46, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
